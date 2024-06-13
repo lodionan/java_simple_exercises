@@ -3,6 +3,8 @@ out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 .idea/
+sshKey
+sshKey.pub
 
 ### Eclipse ###
 .apt_generated
