@@ -38,7 +38,7 @@ public class Rectangle {
         Rectangle r = new Rectangle(30, 15);
 
         r.printRectangle();
-        System.out.println("\nThe SimpleClassCreation.Rectangle area is: " + r.calculateArea());
-        System.out.println("The SimpleClassCreation.Rectangle perimeter is: " + r.calculatePerimeter());
+        System.out.println("\nThe Rectangle area is: " + r.calculateArea());
+        System.out.println("The Rectangle perimeter is: " + r.calculatePerimeter());
     }
 }
